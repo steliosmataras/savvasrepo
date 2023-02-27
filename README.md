@@ -6,6 +6,4 @@ Insert basic plaintext here
 
 Some more plaintext
 
-##second change
 
-even more plaintext
